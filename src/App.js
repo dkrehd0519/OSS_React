@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Component1 from "./component1";
+import Component1 from "./component/component1";
 import Hello from "./component/Hello";
 
 function App() {
