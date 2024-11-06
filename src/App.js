@@ -7,13 +7,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>react oss class 20241028</p>
+        <img src="https://dkrehd0519.github.io/ll-test/image/me.jpg" alt="" width={"400px"} height={"400px"}></img>
         <Hello />
         <Component1 />
-        <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Learn React
-        </a>
       </header>
     </div>
   );
